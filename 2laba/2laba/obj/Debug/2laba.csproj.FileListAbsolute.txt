@@ -1,0 +1,16 @@
+C:\Users\ДимаВащеКласс\source\repos\2laba\2laba\bin\Debug\2laba.exe.config
+C:\Users\ДимаВащеКласс\source\repos\2laba\2laba\bin\Debug\2laba.exe
+C:\Users\ДимаВащеКласс\source\repos\2laba\2laba\bin\Debug\2laba.pdb
+C:\Users\ДимаВащеКласс\source\repos\2laba\2laba\obj\Debug\2laba.csproj.AssemblyReference.cache
+C:\Users\ДимаВащеКласс\source\repos\2laba\2laba\obj\Debug\2laba.csproj.SuggestedBindingRedirects.cache
+C:\Users\ДимаВащеКласс\source\repos\2laba\2laba\obj\Debug\MainWindow.g.cs
+C:\Users\ДимаВащеКласс\source\repos\2laba\2laba\obj\Debug\App.g.cs
+C:\Users\ДимаВащеКласс\source\repos\2laba\2laba\obj\Debug\2laba_MarkupCompile.cache
+C:\Users\ДимаВащеКласс\source\repos\2laba\2laba\obj\Debug\2laba_MarkupCompile.lref
+C:\Users\ДимаВащеКласс\source\repos\2laba\2laba\obj\Debug\MainWindow.baml
+C:\Users\ДимаВащеКласс\source\repos\2laba\2laba\obj\Debug\2laba.g.resources
+C:\Users\ДимаВащеКласс\source\repos\2laba\2laba\obj\Debug\_2laba.Properties.Resources.resources
+C:\Users\ДимаВащеКласс\source\repos\2laba\2laba\obj\Debug\2laba.csproj.GenerateResource.cache
+C:\Users\ДимаВащеКласс\source\repos\2laba\2laba\obj\Debug\2laba.csproj.CoreCompileInputs.cache
+C:\Users\ДимаВащеКласс\source\repos\2laba\2laba\obj\Debug\2laba.exe
+C:\Users\ДимаВащеКласс\source\repos\2laba\2laba\obj\Debug\2laba.pdb
