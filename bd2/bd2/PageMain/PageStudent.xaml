@@ -1,0 +1,18 @@
+﻿<Page x:Class="bd2.PageMain.PageStudent"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:bd2.PageMain"
+      mc:Ignorable="d" 
+      d:DesignHeight="450" d:DesignWidth="800"
+      Title="PageStudent">
+
+    <Grid Background="White">
+        <StackPanel Margin="208,10,208,155">
+            <TextBlock Name="imya"></TextBlock>
+            <TextBlock Name="loig"></TextBlock>
+            <TextBlock Name="posl"></TextBlock>
+        </StackPanel>
+    </Grid>
+</Page>
